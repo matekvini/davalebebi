@@ -1,0 +1,25 @@
+
+body{
+    background-color: aqua;
+}
+
+button{
+    background-color: aqua;
+    width: 100px;
+}
+
+input {
+    border-radius: 5px;
+ outline: 1px solid;
+ color: black;
+}
+button{
+    border-radius: 6px;
+}
+.Loginbox{
+    background-color: white;
+    color: aqua;
+    label{
+        color: black;
+    }
+}
