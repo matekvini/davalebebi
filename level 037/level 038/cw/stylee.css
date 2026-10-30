@@ -1,0 +1,15 @@
+body {
+    background-color: #f7d794; 
+}
+
+.box {
+    width: 100px;
+    height: 201px;
+    
+    padding: 8px;
+    background-color: #a2db5a; 
+    
+    border: none; 
+    
+    margin: 16px;
+}
