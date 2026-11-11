@@ -1,0 +1,32 @@
+*{
+    margin: 10px;
+    padding: 20px;
+}
+
+
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item{
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
+    display: flex;
+    color: white;
+    font-size: 20px;
+}
+
+.box {
+  width: 100px;
+  background-color: #5585ff;
+  color: white;
+  font-size: 30px;
+  
+  text-align: center;
+  line-height: 100px; 
+  margin-right: 15px; 
+
+}

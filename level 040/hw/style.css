@@ -1,0 +1,26 @@
+* {
+    margin: 15;
+    padding: 15;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+
+}
+
+.box {
+    width: 440px;
+    height: 90px;
+    background-color: #0400ff;
+    color: white;
+    font-size: 30px;
+
+    text-align: center;
+    line-height: 100px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    color: black;
+}
